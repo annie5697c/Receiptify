@@ -1,0 +1,33 @@
+
+```json
+{
+  "name": "receiptify",
+  "version": "1.0.0",
+  "description": "A web application to track and manage expenses with digital receipts.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/receiptify.git"
+  },
+  "author": "Annie Calloway",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "expense",
+    "tracking",
+    "receipt",
+    "management",
+    "react"
+  ]
+}
