@@ -6,18 +6,23 @@ The application is built with React, making it responsive and highly interactive
 
 ## Features
 
-- Add, edit, and delete expenses
-- Generate and view digital receipts
-- Filter expenses by date and category
-- Responsive design for mobile and desktop users
-- Easy-to-use, intuitive interface
+- **Expense Management**: Add, edit, and delete expenses with ease.
+- **Digital Receipts**: Automatically generate and display receipts based on your expenses.
+- **Filtering Options**: Filter expenses by date, category, or custom tags.
+- **Responsive Design**: Optimized for both mobile and desktop use.
+- **User-Friendly Interface**: Simple and intuitive design, ensuring a great user experience.
 
 ## Technologies Used
 
-- React
-- CSS3
-- JavaScript (ES6+)
-- HTML5
+- **React**: A powerful JavaScript library for building user interfaces, ensuring a dynamic and responsive user experience.
+- **CSS3**: Utilized for styling the application with advanced layouts and animations.
+- **JavaScript (ES6+)**: Modern JavaScript features used to build the application's logic and interactivity.
+- **HTML5**: The foundation of the web application, providing structure and semantics.
+- **React Router**: Enables seamless navigation between different views in the application.
+- **Webpack**: Module bundler used to optimize and bundle JavaScript, CSS, and other assets.
+- **Babel**: JavaScript compiler that allows us to use the latest JavaScript features while maintaining compatibility with older browsers.
+- **Jest**: Testing framework used for unit and integration tests to ensure code quality and functionality.
+
 
 ## Author
 
